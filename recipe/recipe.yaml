@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.2.1"
+  version: "1.2.2"
 
 package:
   name: pystac-ext-table
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-table/pystac_ext_table-${{ version }}.tar.gz
-  sha256: 585bc36338b261dffa1a1b23e7d148e8788ed8a1e9bc71baabe8a566ba6271c3
+  sha256: c5d33351a07bf811be7eba318a474311578e5deeee2b7a6e67045fa1b8f40ea0
 
 build:
   number: 0
